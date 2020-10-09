@@ -1,2 +1,4 @@
 Demo
 I want to fix bug1
+
+This is updated from master for conflict #$
