@@ -12,3 +12,6 @@ Change5:- Half done work for stash
 Change6:- To test simple push or WI5
 
 Change7:- This is commited by another team member on remote master as WI7
+
+Change8: - To test rebase local master updated for WI6
+
